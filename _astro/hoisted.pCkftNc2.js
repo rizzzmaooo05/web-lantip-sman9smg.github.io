@@ -1,0 +1,1 @@
+import"./header.B8BfNizX.js";const n=window.innerHeight,t=document.getElementsByClassName("title")[0].clientHeight,e=document.getElementById("konten");e.style.minHeight=(n-t).toString()+"px";e.style.marginTop=t.toString()+"px";
